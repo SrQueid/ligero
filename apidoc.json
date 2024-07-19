@@ -1,0 +1,9 @@
+{
+  "name": "LigeroSmart API",
+  "version": "1.0.0",
+  "description": "LigeroSmart API for integrations",
+  "title": "LigeroSmart API",
+  "url" : "/api/v1.0",
+  "forceLanguage": "en",
+  "sampleUrl": null
+}
